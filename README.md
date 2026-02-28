@@ -140,7 +140,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 132  | **FSTRN**                                    | https://bit.ly/3uWJ8h7 |
 | 133  | **PointGroup**                               | https://bit.ly/2QfeKPP |
 | 134  | **3D-MPA**                                   | https://bit.ly/3bqz9J6 |
-| 135  | **Saliency Propagation**                     |                 https://bit.ly/3tXTvj4 |
+| 135  | **Saliency Propagation**                     | https://bit.ly/3tXTvj4 |
 | 136  | **Libra R-CNN**                              | https://bit.ly/3hDytnt |
 | 137  | **SiamRPN++**                                | https://bit.ly/33TNjyi |
 | 138 | **LoFTR** | https://bit.ly/3eUtlJS |
@@ -239,7 +239,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 231 | **GNeRF** | https://bit.ly/3mD3kTR |
 | 232 | **DetCo** | https://bit.ly/3sQiRk9 |
 | 233 | **DERT with Special Modulated Co-Attention**                 | https://bit.ly/3sPQ5jw |
-|      | **Residual Attention** | https://bit.ly/3yni4bJ |
+| 234 | **Residual Attention** | https://bit.ly/3yni4bJ |
 | 235 | **MG-GAN** | https://bit.ly/3mD30o7 |
 | 236 | **Adaptable GAN Encoders** | https://bit.ly/3yh4XJ3 |
 | 237 | **AdaAttN** | https://bit.ly/3BepKPa |
